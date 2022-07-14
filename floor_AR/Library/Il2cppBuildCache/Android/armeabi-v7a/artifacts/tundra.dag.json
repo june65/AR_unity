@@ -22,6 +22,7 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2020.3.26f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARMv7\" --configuration=\"Release\" --outputpath=\"C:\\Users\\82108\\Desktop\\AR_unity\\floor_AR\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\Native\\armeabi-v7a\\libil2cpp.so\" --cachedirectory=\"C:\\Users\\82108\\Desktop\\AR_unity\\floor_AR\\Assets\\..\\Library\\il2cpp_android_armeabi-v7a/il2cpp_cache\" --additional-include-directories=\"C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\bdwgc/include\" --additional-include-directories=\"C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\libil2cpp/include\" --baselib-directory=\"C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer\\Variations\\il2cpp\\Release\\StaticLibs\\armeabi-v7a\" --avoid-dynamic-library-copy --tool-chain-path=\"C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed --generatedcppdir=C:/Users/82108/Desktop/AR_unity/floor_AR/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput --stats-output-dir=C:/Users/82108/Desktop/AR_unity/floor_AR/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppStats",
       "Inputs": [
         "C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed",
+        "C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
         "C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
         "C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
         "C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
@@ -37,6 +38,7 @@
         "C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
         "C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
         "C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
         "C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputModule.dll",
         "C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll",
         "C:/Users/82108/Desktop/AR_unity/floor_AR/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
