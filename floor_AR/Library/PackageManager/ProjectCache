@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637934010959987757
-    m_Hash: 3046028362
+      ticks: 637934263537578643
+    m_Hash: 975822114
   m_LockFileStatus:
     m_FilePath: C:/Users/82108/Desktop/AR_unity/floor_AR/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637934010960588985
-    m_Hash: 1738356228
+      ticks: 637934263537598613
+    m_Hash: 4100521721
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -3732,10 +3732,34 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 1.0.0
+        - 1.0.2
+        - 1.0.3
+        - 1.3.1
+        - 1.3.2
+        - 1.3.4
+        - 1.3.5
+        - 1.3.6
+        - 1.3.7
+        - 1.3.8
+        - 1.3.11
+        - 2.0.1
+        - 2.0.2
+        - 2.0.4
+        - 2.0.6
+        - 2.0.8
+        - 2.1.1
+        - 2.1.2
+        - 2.1.3
+        - 2.1.4
+        - 2.1.6
+        - 2.1.7
         - 2.1.8
+        - 2.1.9
         compatible:
         - 2.1.8
-        verified: 2.1.8
+        - 2.1.9
+        verified: 2.1.9
       dependencies:
       - name: com.unity.modules.vr
         version: 1.0.0
@@ -3770,7 +3794,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637623088970000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3799,12 +3823,17 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 1.0.0-preview.4
+        - 1.0.4
+        - 1.0.5
         - 1.0.6
         - 1.1.0
+        - 1.1.1
         compatible:
         - 1.0.6
         - 1.1.0
-        verified: 1.1.0
+        - 1.1.1
+        verified: 1.1.1
       dependencies:
       - name: com.unity.modules.subsystems
         version: 1.0.0
@@ -3829,7 +3858,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637314426150000000
       documentationUrl: 
       hasRepository: 1
       repository:

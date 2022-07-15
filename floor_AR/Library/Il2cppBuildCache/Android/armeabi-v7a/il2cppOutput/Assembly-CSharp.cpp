@@ -1664,10 +1664,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ARPlaceOnPlane_PlaceObjectByTouch_m9C055
 	ARRaycastHit_t2B16118C3B5F17B237335D69B1CA9C27474B621E  V_3;
 	memset((&V_3), 0, sizeof(V_3));
 	{
-		// if (Input.touchCount > 1)
+		// if (Input.touchCount > 0)
 		int32_t L_0;
 		L_0 = Input_get_touchCount_mE1A06AB1973E3456AE398B3CC5105F27CC7335D6(/*hidden argument*/NULL);
-		if ((((int32_t)L_0) <= ((int32_t)1)))
+		if ((((int32_t)L_0) <= ((int32_t)0)))
 		{
 			goto IL_0096;
 		}

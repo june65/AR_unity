@@ -28,6 +28,12 @@ ScriptsOnlyBuild:
     Unity.XR.Management.dll:
     - UnityEngine.XR.Management.XRGeneralSettings
     - UnityEngine.XR.Management.XRManagerSettings
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -54,11 +60,17 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
-    - Class: 65
+    - Class: 74
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -81,22 +93,24 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3848}
     - Class: 114
-      Script: {instanceID: 4142}
+      Script: {instanceID: 4048}
     - Class: 114
-      Script: {instanceID: 4420}
+      Script: {instanceID: 4144}
     - Class: 114
-      Script: {instanceID: 4672}
+      Script: {instanceID: 4422}
     - Class: 114
-      Script: {instanceID: 4762}
+      Script: {instanceID: 4674}
     - Class: 114
-      Script: {instanceID: 4842}
+      Script: {instanceID: 4764}
     - Class: 114
-      Script: {instanceID: 4934}
+      Script: {instanceID: 4844}
     - Class: 114
-      Script: {instanceID: 16540}
+      Script: {instanceID: 4936}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
+      Script: {instanceID: 0}
+    - Class: 137
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -607,6 +621,12 @@ ScriptsOnlyBuild:
     className: Mask
   - hash:
       serializedVersion: 2
+      Hash: 6e9fa1687cb964bc5af1983f26b28049
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ARPlaceOnPlane
+  - hash:
+      serializedVersion: 2
       Hash: e1c35cdce946e9da77fe80a39c261608
     assemblyName: Unity.XR.ARFoundation.dll
     namespaceName: UnityEngine.XR.ARFoundation
@@ -791,13 +811,7 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
-  - hash:
-      serializedVersion: 2
-      Hash: 6e9fa1687cb964bc5af1983f26b28049
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ARPlaceOnPlane
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/82108/Desktop/AR_unity/floor_AR/box_touch_app.apk
+  playerPath: C:/Users/82108/Desktop/AR_unity/floor_AR/fox_app.apk
