@@ -2,3 +2,4 @@ floor_AR filter=lfs diff=lfs merge=lfs -text
 face_ar filter=lfs diff=lfs merge=lfs -text
 face_tracking_AR filter=lfs diff=lfs merge=lfs -text
 rular_AR filter=lfs diff=lfs merge=lfs -text
+image_tracking_AR filter=lfs diff=lfs merge=lfs -text
